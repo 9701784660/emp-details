@@ -1,0 +1,7 @@
+D:\exercises\day2\emp details\emp details\bin\Debug\emp details.exe.config
+D:\exercises\day2\emp details\emp details\bin\Debug\emp details.exe
+D:\exercises\day2\emp details\emp details\bin\Debug\emp details.pdb
+D:\exercises\day2\emp details\emp details\obj\Debug\emp details.csproj.AssemblyReference.cache
+D:\exercises\day2\emp details\emp details\obj\Debug\emp details.csproj.CoreCompileInputs.cache
+D:\exercises\day2\emp details\emp details\obj\Debug\emp details.exe
+D:\exercises\day2\emp details\emp details\obj\Debug\emp details.pdb
